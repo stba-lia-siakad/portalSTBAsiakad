@@ -1,0 +1,1 @@
+<div class="sidebar" data-color="blue" data-image="<?php echo base_url('assets/img/bcw2.jpg')?>">
